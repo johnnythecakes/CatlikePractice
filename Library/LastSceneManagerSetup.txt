@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Lessons/01_Clock/Clock.unity
+  isLoaded: 1
+  isActive: 1
