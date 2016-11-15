@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Lessons/01_Clock/Clock.unity
+- path: Assets/Lessons/06_procedural_grid/Procedural_Grid.unity
   isLoaded: 1
   isActive: 1

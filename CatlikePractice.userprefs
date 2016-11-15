@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Lessons\01_Clock\ClockAnimator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Lessons\06_procedural_grid\Grid.cs">
     <Files>
       <File FileName="Assets\Lessons\01_Clock\ClockAnimator.cs" Line="34" Column="1" />
+      <File FileName="Assets\Lessons\06_procedural_grid\Grid.cs" Line="21" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
